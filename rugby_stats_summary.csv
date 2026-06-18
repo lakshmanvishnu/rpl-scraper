@@ -1,0 +1,67 @@
+gender,stat,player_name,team,position,matches_played,value,rank
+Men,Most Assists,Tusitafu Toilolo,Chennai Bulls,Back,1.0,1.0,1
+Men,Most Assists,Motu Opetai,Bengaluru Bravehearts,Hybrid,1.0,1.0,2
+Men,Most Assists,Aaron Cummings,Kolkata Banga Tigers,Forward,1.0,1.0,3
+Men,Most Assists,Samuel Asati,Delhi Redz,Back,1.0,1.0,4
+Men,Most Assists,Brady Rush,Kolkata Banga Tigers,Back,1.0,1.0,5
+Men,Most Conversions,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1.0,4.0,1
+Men,Most Conversions,Lucas Mignot,Mumbai Dreamers,Back,1.0,2.0,2
+Men,Most Conversions,Filipe Sauturaga,Chennai Bulls,Back,1.0,2.0,3
+Men,Most Conversions,Francisco Cosculluela,Hyderabad Heroes,inside Center,1.0,2.0,4
+Men,Most Conversions,Brady Rush,Kolkata Banga Tigers,Back,1.0,1.0,5
+Men,Most DropGoals,,,,,,1
+Men,Most Offloads,Motu Opetai,Bengaluru Bravehearts,Hybrid,1.0,3.0,1
+Men,Most Offloads,Patrick Odongo Okongo,Delhi Redz,Back,1.0,2.0,2
+Men,Most Offloads,Michael Icely,Chennai Bulls,Flanker,1.0,2.0,3
+Men,Most Offloads,Brady Rush,Kolkata Banga Tigers,Back,1.0,2.0,4
+Men,Most Offloads,Regan Ware,Hyderabad Heroes,Hybrid,1.0,2.0,5
+Men,Most Points,Samuel Asati,Delhi Redz,Back,1.0,12.0,1
+Men,Most Points,Filipe Sauturaga,Chennai Bulls,Back,1.0,9.0,2
+Men,Most Points,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1.0,8.0,3
+Men,Most Points,Tusitafu Toilolo,Chennai Bulls,Back,1.0,7.0,4
+Men,Most Points,Brady Rush,Kolkata Banga Tigers,Back,1.0,7.0,5
+Men,Most Red Card,,,,,,1
+Men,Most Tackles,Ricardo Duartee,Kolkata Banga Tigers,Back,1.0,6.0,1
+Men,Most Tackles,Kaleem Baretto,Mumbai Dreamers,Scrum Half,1.0,5.0,2
+Men,Most Tackles,Brady Rush,Kolkata Banga Tigers,Back,1.0,5.0,3
+Men,Most Tackles,Lucas Mignot,Mumbai Dreamers,Back,1.0,4.0,4
+Men,Most Tackles,Samuel Asati,Delhi Redz,Back,1.0,4.0,5
+Men,Most Tries,Samuel Asati,Delhi Redz,Back,1.0,2.0,1
+Men,Most Tries,Brady Rush,Kolkata Banga Tigers,Back,1.0,1.0,2
+Men,Most Tries,Regan Ware,Hyderabad Heroes,Hybrid,1.0,1.0,3
+Men,Most Tries,Filipe Sauturaga,Chennai Bulls,Back,1.0,1.0,4
+Men,Most Tries,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1.0,1.0,5
+Men,Most Yellow Card,Patrick Odongo Okongo,Delhi Redz,Back,1.0,1.0,1
+Women,Most Assists,,Mumbai Dreamers,,1.0,3.0,1
+Women,Most Assists,,Kolkata Banga Tigers,,1.0,2.0,2
+Women,Most Assists,,Delhi Redz,,1.0,2.0,3
+Women,Most Assists,,Chennai Bulls,,1.0,2.0,4
+Women,Most Assists,,Hyderabad Heroes,,1.0,1.0,5
+Women,Most Conversions,,Bengaluru Bravehearts,,1.0,4.0,1
+Women,Most Conversions,,Mumbai Dreamers,,1.0,3.0,2
+Women,Most Conversions,,Delhi Redz,,1.0,3.0,3
+Women,Most Conversions,,Hyderabad Heroes,,1.0,3.0,4
+Women,Most Conversions,,Chennai Bulls,,1.0,3.0,5
+Women,Most DropGoals,,,,,,1
+Women,Most Offloads,,Kolkata Banga Tigers,,1.0,11.0,1
+Women,Most Offloads,,Hyderabad Heroes,,1.0,11.0,2
+Women,Most Offloads,,Bengaluru Bravehearts,,1.0,8.0,3
+Women,Most Offloads,,Delhi Redz,,1.0,7.0,4
+Women,Most Offloads,,Mumbai Dreamers,,1.0,4.0,5
+Women,Most Points,,Delhi Redz,,1.0,31.0,1
+Women,Most Points,,Bengaluru Bravehearts,,1.0,28.0,2
+Women,Most Points,,Mumbai Dreamers,,1.0,21.0,3
+Women,Most Points,,Hyderabad Heroes,,1.0,21.0,4
+Women,Most Points,,Chennai Bulls,,1.0,21.0,5
+Women,Most Red Card,,,,,,1
+Women,Most Tackles,,Kolkata Banga Tigers,,1.0,23.0,1
+Women,Most Tackles,,Bengaluru Bravehearts,,1.0,23.0,2
+Women,Most Tackles,,Mumbai Dreamers,,1.0,22.0,3
+Women,Most Tackles,,Hyderabad Heroes,,1.0,17.0,4
+Women,Most Tackles,,Delhi Redz,,1.0,15.0,5
+Women,Most Tries,,Delhi Redz,,1.0,5.0,1
+Women,Most Tries,,Bengaluru Bravehearts,,1.0,4.0,2
+Women,Most Tries,,Mumbai Dreamers,,1.0,3.0,3
+Women,Most Tries,,Hyderabad Heroes,,1.0,3.0,4
+Women,Most Tries,,Chennai Bulls,,1.0,3.0,5
+Women,Most Yellow Card,,Delhi Redz,,1.0,1.0,1

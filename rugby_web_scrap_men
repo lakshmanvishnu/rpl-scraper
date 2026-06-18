@@ -1,0 +1,64 @@
+import requests
+import pandas as pd
+
+url = "https://www.rugbypremierleague.in/feeds/static/Stats_Listing_6.json"
+
+data = requests.get(url).json()
+
+all_rows = []
+
+for idx, stat_category in enumerate(data["all_stats"]):
+
+    gender = "Men" if idx < 9 else "Women"
+
+    stat_name = stat_category["stat"]
+
+    # The data array is already in leaderboard order (sorted by value desc),
+    # which is exactly what the website displays. The JSON "rank" field is an
+    # unreliable internal value (has gaps / wrong tie order), so derive the
+    # displayed rank from the array position instead.
+    for display_rank, player in enumerate(stat_category["data"], start=1):
+
+        row = {
+            "gender": gender,
+            "stat": stat_name,
+            "player_name": player["player_name"],
+            "team": player["team_full_name"],
+            "position": player["position_name"],
+            "matches_played": player["matches_played"],
+            "value": player["value"],
+            "rank": display_rank
+        }
+
+        all_rows.append(row)
+
+print(f"Rows extracted: {len(all_rows)}")
+print(all_rows[:3])
+
+# export as pandas dataframe
+df = pd.DataFrame(all_rows)
+
+print(df)
+print(df.shape)
+print(df.dtypes)
+
+# Putting them into numerical rank order
+df["rank"] = pd.to_numeric(df["rank"])
+df["value"] = pd.to_numeric(df["value"])
+df["matches_played"] = pd.to_numeric(df["matches_played"])
+
+df = df.sort_values(
+    by=["gender", "stat", "rank"],
+    ascending=[True, True, True]
+)
+
+print(df.head(15))
+
+for player in data["all_stats"][0]["data"]:
+    print(player["player_name"], player["rank"], player["value"])
+    
+
+# exporting to csv
+df.to_csv("rugby_stats.csv", index=False)
+
+print("CSV saved successfully!")

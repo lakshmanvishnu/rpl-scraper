@@ -1,0 +1,304 @@
+gender,entity_level,stat,stat_id,minimum_criteria,player_name,team,position,matches_played,value,rank
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Sebastiaan Jobb,Mumbai Dreamers,Right Wing,1,1,1
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Brady Rush,Kolkata Banga Tigers,Back,1,1,2
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Samuel Asati,Delhi Redz,Back,1,1,3
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Aaron Cummings,Kolkata Banga Tigers,Forward,1,1,4
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Motu Opetai,Bengaluru Bravehearts,Hybrid,1,1,5
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,1,6
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Hitesh Dagar,Delhi Redz,Forward,1,1,7
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Rajan Rawat,Hyderabad Heroes,Fly Half,1,1,8
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Vikas Khatri,Mumbai Dreamers,Prop,1,1,9
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Marika Koroibete,Chennai Bulls,Back,1,1,10
+Men,player,Most Assists,9,Minimum 1 Assist in a match,Kaleem Baretto,Mumbai Dreamers,Scrum Half,1,1,11
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1,4,1
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Francisco Cosculluela,Hyderabad Heroes,inside Center,1,2,2
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Filipe Sauturaga,Chennai Bulls,Back,1,2,3
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Lucas Mignot,Mumbai Dreamers,Back,1,2,4
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1,1,5
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Brady Rush,Kolkata Banga Tigers,Back,1,1,6
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Samuel Asati,Delhi Redz,Back,1,1,7
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Deepak Punia,Delhi Redz,Back,1,1,8
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,1,9
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Rajan Rawat,Hyderabad Heroes,Fly Half,1,1,10
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Guillaume Bouche,Mumbai Dreamers,Back,1,1,11
+Men,player,Most Conversions,2,Minimum 1 Conversion in a match,Alasio Naduva,Delhi Redz,Back,1,1,12
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Motu Opetai,Bengaluru Bravehearts,Hybrid,1,3,1
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Francisco Cosculluela,Hyderabad Heroes,inside Center,1,2,2
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Regan Ware,Hyderabad Heroes,Hybrid,1,2,3
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Brady Rush,Kolkata Banga Tigers,Back,1,2,4
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Michael Icely,Chennai Bulls,Flanker,1,2,5
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Patrick Odongo Okongo,Delhi Redz,Back,1,2,6
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Lucas Lacamp,Kolkata Banga Tigers,Back,1,2,7
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1,2,8
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Sumit Roy,Hyderabad Heroes,Hybrid,1,2,9
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Sambit Pradhan,Hyderabad Heroes,Forward,1,2,10
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Deepak Punia,Delhi Redz,Back,1,2,11
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Ricardo Duartee,Kolkata Banga Tigers,Back,1,2,12
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Sebastiaan Jobb,Mumbai Dreamers,Right Wing,1,1,13
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Shilton Van Wyk,Bengaluru Bravehearts,Utility Back,1,1,14
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1,1,15
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Maurice Longbottom,Hyderabad Heroes,Back,1,1,16
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Nygel Pettersan Amaitsa,Delhi Redz,Back,1,1,17
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Aaron Cummings,Kolkata Banga Tigers,Forward,1,1,18
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Diego Ardao,Hyderabad Heroes,Forward,1,1,19
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Liam Poulton,Mumbai Dreamers,Back,1,1,20
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Arpan Chhetri,Bengaluru Bravehearts,Forward,1,1,21
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Manuel Moreno,Hyderabad Heroes,Forward,1,1,22
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Prince Khatri,Mumbai Dreamers,Back,1,1,23
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Javed Hussain,Delhi Redz,Back,1,1,24
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Ajay Deswal,Kolkata Banga Tigers,Forward,1,1,25
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Devendra Padir,Bengaluru Bravehearts,Forward,1,1,26
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,1,27
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Hitesh Dagar,Delhi Redz,Forward,1,1,28
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Shotaro Tsuoka,Kolkata Banga Tigers,Back,1,1,29
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Niue Owen,Kolkata Banga Tigers,Back,1,1,30
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Lucas Mignot,Mumbai Dreamers,Back,1,1,31
+Men,player,Most Offloads,7,Minimum 1 Offload in a match,Kamineli Rasuku,Chennai Bulls,Back,1,1,32
+Men,player,Most Points,4,Minimum 1 Point in a match,Samuel Asati,Delhi Redz,Back,1,12,1
+Men,player,Most Points,4,Minimum 1 Point in a match,Filipe Sauturaga,Chennai Bulls,Back,1,9,2
+Men,player,Most Points,4,Minimum 1 Point in a match,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1,8,3
+Men,player,Most Points,4,Minimum 1 Point in a match,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1,7,4
+Men,player,Most Points,4,Minimum 1 Point in a match,Brady Rush,Kolkata Banga Tigers,Back,1,7,5
+Men,player,Most Points,4,Minimum 1 Point in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,7,6
+Men,player,Most Points,4,Minimum 1 Point in a match,Guillaume Bouche,Mumbai Dreamers,Back,1,7,7
+Men,player,Most Points,4,Minimum 1 Point in a match,Josep Serres,Delhi Redz,Right Wing,1,5,8
+Men,player,Most Points,4,Minimum 1 Point in a match,Regan Ware,Hyderabad Heroes,Hybrid,1,5,9
+Men,player,Most Points,4,Minimum 1 Point in a match,Henry Hutchison,Bengaluru Bravehearts,Hybrid,1,5,10
+Men,player,Most Points,4,Minimum 1 Point in a match,James Turner,Mumbai Dreamers,Back,1,5,11
+Men,player,Most Points,4,Minimum 1 Point in a match,Ryan Apps,Bengaluru Bravehearts,Back,1,5,12
+Men,player,Most Points,4,Minimum 1 Point in a match,Diego Ardao,Hyderabad Heroes,Forward,1,5,13
+Men,player,Most Points,4,Minimum 1 Point in a match,Manuel Moreno,Hyderabad Heroes,Forward,1,5,14
+Men,player,Most Points,4,Minimum 1 Point in a match,Prince Khatri,Mumbai Dreamers,Back,1,5,15
+Men,player,Most Points,4,Minimum 1 Point in a match,Devendra Padir,Bengaluru Bravehearts,Forward,1,5,16
+Men,player,Most Points,4,Minimum 1 Point in a match,Lennox Wiese,Delhi Redz,Forward,1,5,17
+Men,player,Most Points,4,Minimum 1 Point in a match,Jon Okoth Okeyo,Delhi Redz,Forward,1,5,18
+Men,player,Most Points,4,Minimum 1 Point in a match,Ngarohi Mcgarvey,Bengaluru Bravehearts,Back,1,5,19
+Men,player,Most Points,4,Minimum 1 Point in a match,Kamineli Rasuku,Chennai Bulls,Back,1,5,20
+Men,player,Most Points,4,Minimum 1 Point in a match,Francisco Cosculluela,Hyderabad Heroes,inside Center,1,4,21
+Men,player,Most Points,4,Minimum 1 Point in a match,Lucas Mignot,Mumbai Dreamers,Back,1,4,22
+Men,player,Most Points,4,Minimum 1 Point in a match,Deepak Punia,Delhi Redz,Back,1,2,23
+Men,player,Most Points,4,Minimum 1 Point in a match,Rajan Rawat,Hyderabad Heroes,Fly Half,1,2,24
+Men,player,Most Points,4,Minimum 1 Point in a match,Alasio Naduva,Delhi Redz,Back,1,2,25
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Ricardo Duartee,Kolkata Banga Tigers,Back,1,6,1
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Brady Rush,Kolkata Banga Tigers,Back,1,5,2
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Kaleem Baretto,Mumbai Dreamers,Scrum Half,1,5,3
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Henry Hutchison,Bengaluru Bravehearts,Hybrid,1,4,4
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Samuel Asati,Delhi Redz,Back,1,4,5
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Lucas Mignot,Mumbai Dreamers,Back,1,4,6
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1,3,7
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Filipe Sauturaga,Chennai Bulls,Back,1,3,8
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Akuila Rokolisoa,Bengaluru Bravehearts,Back,1,3,9
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Mohit Khatri,Chennai Bulls,Hybrid,1,3,10
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Sumit Roy,Hyderabad Heroes,Hybrid,1,3,11
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Ajay Deswal,Kolkata Banga Tigers,Forward,1,3,12
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Akash Balmiki,Bengaluru Bravehearts,Back,1,3,13
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Wolfram Hacker,Hyderabad Heroes,Hybrid,1,3,14
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Ben Lasiel,Mumbai Dreamers,Utility,1,3,15
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Jonas Mikalcius,Bengaluru Bravehearts,Back,1,3,16
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Shilton Van Wyk,Bengaluru Bravehearts,Utility Back,1,2,17
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Impi Visser,Mumbai Dreamers,Center,1,2,18
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Regan Ware,Hyderabad Heroes,Hybrid,1,2,19
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Michael Icely,Chennai Bulls,Flanker,1,2,20
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Patrick Odongo Okongo,Delhi Redz,Back,1,2,21
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Aaron Cummings,Kolkata Banga Tigers,Forward,1,2,22
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Diego Ardao,Hyderabad Heroes,Forward,1,2,23
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Liam Poulton,Mumbai Dreamers,Back,1,2,24
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Manuel Moreno,Hyderabad Heroes,Forward,1,2,25
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Prince Khatri,Mumbai Dreamers,Back,1,2,26
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Sambit Pradhan,Hyderabad Heroes,Forward,1,2,27
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Devendra Padir,Bengaluru Bravehearts,Forward,1,2,28
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Motu Opetai,Bengaluru Bravehearts,Hybrid,1,2,29
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Taualai Panoa,Chennai Bulls,Forward,1,2,30
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Jon Okoth Okeyo,Delhi Redz,Forward,1,2,31
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Santiago Alvarez,Chennai Bulls,Center,1,1,32
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Sebastiaan Jobb,Mumbai Dreamers,Right Wing,1,1,33
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Francisco Cosculluela,Hyderabad Heroes,inside Center,1,1,34
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Josep Serres,Delhi Redz,Right Wing,1,1,35
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,James Turner,Mumbai Dreamers,Back,1,1,36
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Ryan Apps,Bengaluru Bravehearts,Back,1,1,37
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Nygel Pettersan Amaitsa,Delhi Redz,Back,1,1,38
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Arpan Chhetri,Bengaluru Bravehearts,Forward,1,1,39
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Prashant Singh,Kolkata Banga Tigers,Hybrid,1,1,40
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Michael Coverdale,Bengaluru Bravehearts,Forward,1,1,41
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Deepak Punia,Delhi Redz,Back,1,1,42
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Elias Hancock,Delhi Redz,Forward,1,1,43
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Neeraj Khatri,Mumbai Dreamers,Forward,1,1,44
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,1,45
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Lennox Wiese,Delhi Redz,Forward,1,1,46
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Hitesh Dagar,Delhi Redz,Forward,1,1,47
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Thibaud Mazzoleni,Kolkata Banga Tigers,Forward,1,1,48
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Shotaro Tsuoka,Kolkata Banga Tigers,Back,1,1,49
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Niue Owen,Kolkata Banga Tigers,Back,1,1,50
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Rajan Rawat,Hyderabad Heroes,Fly Half,1,1,51
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Vikas Khatri,Mumbai Dreamers,Prop,1,1,52
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Ngarohi Mcgarvey,Bengaluru Bravehearts,Back,1,1,53
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Marika Koroibete,Chennai Bulls,Back,1,1,54
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Alasio Naduva,Delhi Redz,Back,1,1,55
+Men,player,Most Tackles,3,Minimum 1 Tackle in a match,Taitaifono Senio Tavita,Hyderabad Heroes,Scrum Half,1,1,56
+Men,player,Most Tries,1,Minimum 1 try in a match,Samuel Asati,Delhi Redz,Back,1,2,1
+Men,player,Most Tries,1,Minimum 1 try in a match,Josep Serres,Delhi Redz,Right Wing,1,1,2
+Men,player,Most Tries,1,Minimum 1 try in a match,Vuiviwa Naduvalo,Kolkata Banga Tigers,Back,1,1,3
+Men,player,Most Tries,1,Minimum 1 try in a match,Filipe Sauturaga,Chennai Bulls,Back,1,1,4
+Men,player,Most Tries,1,Minimum 1 try in a match,Regan Ware,Hyderabad Heroes,Hybrid,1,1,5
+Men,player,Most Tries,1,Minimum 1 try in a match,Brady Rush,Kolkata Banga Tigers,Back,1,1,6
+Men,player,Most Tries,1,Minimum 1 try in a match,Henry Hutchison,Bengaluru Bravehearts,Hybrid,1,1,7
+Men,player,Most Tries,1,Minimum 1 try in a match,James Turner,Mumbai Dreamers,Back,1,1,8
+Men,player,Most Tries,1,Minimum 1 try in a match,Ryan Apps,Bengaluru Bravehearts,Back,1,1,9
+Men,player,Most Tries,1,Minimum 1 try in a match,Diego Ardao,Hyderabad Heroes,Forward,1,1,10
+Men,player,Most Tries,1,Minimum 1 try in a match,Manuel Moreno,Hyderabad Heroes,Forward,1,1,11
+Men,player,Most Tries,1,Minimum 1 try in a match,Prince Khatri,Mumbai Dreamers,Back,1,1,12
+Men,player,Most Tries,1,Minimum 1 try in a match,Devendra Padir,Bengaluru Bravehearts,Forward,1,1,13
+Men,player,Most Tries,1,Minimum 1 try in a match,Tusitafu Toilolo,Chennai Bulls,Back,1,1,14
+Men,player,Most Tries,1,Minimum 1 try in a match,Lennox Wiese,Delhi Redz,Forward,1,1,15
+Men,player,Most Tries,1,Minimum 1 try in a match,Jon Okoth Okeyo,Delhi Redz,Forward,1,1,16
+Men,player,Most Tries,1,Minimum 1 try in a match,Guillaume Bouche,Mumbai Dreamers,Back,1,1,17
+Men,player,Most Tries,1,Minimum 1 try in a match,Ngarohi Mcgarvey,Bengaluru Bravehearts,Back,1,1,18
+Men,player,Most Tries,1,Minimum 1 try in a match,Kamineli Rasuku,Chennai Bulls,Back,1,1,19
+Men,player,Most Yellow Card,5,Minimum 1 Yellow Card in a match,Patrick Odongo Okongo,Delhi Redz,Back,1,1,1
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Mumbai Dreamers,,1,3,1
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Chennai Bulls,,1,2,2
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Delhi Redz,,1,2,3
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Kolkata Banga Tigers,,1,2,4
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Bengaluru Bravehearts,,1,1,5
+Men,team,Most Assists,9,Minimum 1 Assist in a match,,Hyderabad Heroes,,1,1,6
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Bengaluru Bravehearts,,1,4,1
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Chennai Bulls,,1,3,2
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Hyderabad Heroes,,1,3,3
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Delhi Redz,,1,3,4
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Mumbai Dreamers,,1,3,5
+Men,team,Most Conversions,2,Minimum 1 Conversion in a match,,Kolkata Banga Tigers,,1,2,6
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Hyderabad Heroes,,1,11,1
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Kolkata Banga Tigers,,1,11,2
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Bengaluru Bravehearts,,1,8,3
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Delhi Redz,,1,7,4
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Chennai Bulls,,1,4,5
+Men,team,Most Offloads,7,Minimum 1 Offload in a match,,Mumbai Dreamers,,1,4,6
+Men,team,Most Points,4,Minimum 1 Point in a match,,Delhi Redz,,1,31,1
+Men,team,Most Points,4,Minimum 1 Point in a match,,Bengaluru Bravehearts,,1,28,2
+Men,team,Most Points,4,Minimum 1 Point in a match,,Chennai Bulls,,1,21,3
+Men,team,Most Points,4,Minimum 1 Point in a match,,Hyderabad Heroes,,1,21,4
+Men,team,Most Points,4,Minimum 1 Point in a match,,Mumbai Dreamers,,1,21,5
+Men,team,Most Points,4,Minimum 1 Point in a match,,Kolkata Banga Tigers,,1,14,6
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Bengaluru Bravehearts,,1,23,1
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Kolkata Banga Tigers,,1,23,2
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Mumbai Dreamers,,1,22,3
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Hyderabad Heroes,,1,17,4
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Delhi Redz,,1,15,5
+Men,team,Most Tackles,3,Minimum 1 Tackle in a match,,Chennai Bulls,,1,13,6
+Men,team,Most Tries,1,Minimum 1 try in a match,,Delhi Redz,,1,5,1
+Men,team,Most Tries,1,Minimum 1 try in a match,,Bengaluru Bravehearts,,1,4,2
+Men,team,Most Tries,1,Minimum 1 try in a match,,Chennai Bulls,,1,3,3
+Men,team,Most Tries,1,Minimum 1 try in a match,,Hyderabad Heroes,,1,3,4
+Men,team,Most Tries,1,Minimum 1 try in a match,,Mumbai Dreamers,,1,3,5
+Men,team,Most Tries,1,Minimum 1 try in a match,,Kolkata Banga Tigers,,1,2,6
+Men,team,Most Yellow Card,5,Minimum 1 Yellow Card in a match,,Delhi Redz,,1,1,1
+Women,player,Most Assists,9,Minimum 1 Assist in a match,Silika Qalo,Delhi Redz,Back,1,2,1
+Women,player,Most Assists,9,Minimum 1 Assist in a match,Sarah Gossman,Kolkata Banga Tigers,Forward,1,1,2
+Women,player,Most Assists,9,Minimum 1 Assist in a match,Parbati Hansdah,Kolkata Banga Tigers,Scrumhalf,1,1,3
+Women,player,Most Assists,9,Minimum 1 Assist in a match,Arti Kumari,Mumbai Dreamers,Wing,1,1,4
+Women,player,Most Assists,9,Minimum 1 Assist in a match,Carmen Izyk,Chennai Bulls,Back,1,1,5
+Women,player,Most Conversions,2,Minimum 1 Conversion in a match,Lavena Cavuru,Delhi Redz,Back,1,2,1
+Women,player,Most Conversions,2,Minimum 1 Conversion in a match,Parbati Hansdah,Kolkata Banga Tigers,Scrumhalf,1,2,2
+Women,player,Most Conversions,2,Minimum 1 Conversion in a match,Marianela Escalente,Mumbai Dreamers,Back,1,2,3
+Women,player,Most Conversions,2,Minimum 1 Conversion in a match,Savannah Bauder,Chennai Bulls,Fly Half,1,2,4
+Women,player,Most Conversions,2,Minimum 1 Conversion in a match,Sofia Gonzalez,Kolkata Banga Tigers,Back,1,1,5
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Zintle Mpupha,Delhi Redz,Back,1,3,1
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Guriya Kumari,Delhi Redz,Scrumhalf,1,3,2
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Sandhyarani Tudu,Chennai Bulls,Centre,1,2,3
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Sofia Gonzalez,Kolkata Banga Tigers,Back,1,2,4
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Larah Wright,Chennai Bulls,Back,1,2,5
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Carmen Izyk,Chennai Bulls,Back,1,2,6
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Priyanka R,Chennai Bulls,Fly Half,1,2,7
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Amandeep Kaur,Chennai Bulls,Prop,1,1,8
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Sarah Gossman,Kolkata Banga Tigers,Forward,1,1,9
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Kyra Vincent,Kolkata Banga Tigers,Wing,1,1,10
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Grace Okulu,Mumbai Dreamers,Back,1,1,11
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Arti Kumari,Mumbai Dreamers,Wing,1,1,12
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Isadora Lopes,Delhi Redz,Back,1,1,13
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Eden Kilgour,Delhi Redz,Back,1,1,14
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Shikha Yadav,Delhi Redz,Forward,1,1,15
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Vaishnavi Patil,Delhi Redz,Prop,1,1,16
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Yasmim Soares,Mumbai Dreamers,Back,1,1,17
+Women,player,Most Offloads,7,Minimum 1 Offload in a match,Bhumika Shukla,Mumbai Dreamers,Centre,1,1,18
+Women,player,Most Points,4,Minimum 1 Point in a match,Nia Imani Toliver,Kolkata Banga Tigers,Back,1,15,1
+Women,player,Most Points,4,Minimum 1 Point in a match,Savannah Bauder,Chennai Bulls,Fly Half,1,14,2
+Women,player,Most Points,4,Minimum 1 Point in a match,Sofia Gonzalez,Kolkata Banga Tigers,Back,1,12,3
+Women,player,Most Points,4,Minimum 1 Point in a match,Lavena Cavuru,Delhi Redz,Back,1,9,4
+Women,player,Most Points,4,Minimum 1 Point in a match,Amandeep Kaur,Chennai Bulls,Prop,1,5,5
+Women,player,Most Points,4,Minimum 1 Point in a match,Zintle Mpupha,Delhi Redz,Back,1,5,6
+Women,player,Most Points,4,Minimum 1 Point in a match,Rima Oraon,Delhi Redz,Flyhalf,1,5,7
+Women,player,Most Points,4,Minimum 1 Point in a match,Grace Okulu,Mumbai Dreamers,Back,1,5,8
+Women,player,Most Points,4,Minimum 1 Point in a match,Isadora Lopes,Delhi Redz,Back,1,5,9
+Women,player,Most Points,4,Minimum 1 Point in a match,Yasmim Soares,Mumbai Dreamers,Back,1,5,10
+Women,player,Most Points,4,Minimum 1 Point in a match,Bhumika Shukla,Mumbai Dreamers,Centre,1,5,11
+Women,player,Most Points,4,Minimum 1 Point in a match,Adia Pye,Chennai Bulls,Back,1,5,12
+Women,player,Most Points,4,Minimum 1 Point in a match,Parbati Hansdah,Kolkata Banga Tigers,Scrumhalf,1,4,13
+Women,player,Most Points,4,Minimum 1 Point in a match,Marianela Escalente,Mumbai Dreamers,Back,1,4,14
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Carmen Izyk,Chennai Bulls,Back,1,7,1
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Savannah Bauder,Chennai Bulls,Fly Half,1,6,2
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Yasmim Soares,Mumbai Dreamers,Back,1,5,3
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Marianela Escalente,Mumbai Dreamers,Back,1,4,4
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Sandhyarani Tudu,Chennai Bulls,Centre,1,3,5
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Amandeep Kaur,Chennai Bulls,Prop,1,3,6
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Zintle Mpupha,Delhi Redz,Back,1,3,7
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Sofia Gonzalez,Kolkata Banga Tigers,Back,1,3,8
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Chantelle Miell,Chennai Bulls,Forward,1,2,9
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Guriya Kumari,Delhi Redz,Scrumhalf,1,2,10
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Sarah Gossman,Kolkata Banga Tigers,Forward,1,2,11
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Parbati Hansdah,Kolkata Banga Tigers,Scrumhalf,1,2,12
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Larah Wright,Chennai Bulls,Back,1,2,13
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Sandhya Rai,Chennai Bulls,Flyhalf,1,2,14
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Silika Qalo,Delhi Redz,Back,1,2,15
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Eden Kilgour,Delhi Redz,Back,1,2,16
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Nia Imani Toliver,Kolkata Banga Tigers,Back,1,2,17
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Kalyani Patil,Kolkata Banga Tigers,Wing,1,2,18
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Bhumika Shukla,Mumbai Dreamers,Centre,1,2,19
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Lavena Cavuru,Delhi Redz,Back,1,1,20
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Saloni Kumari,Delhi Redz,Centre,1,1,21
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Rima Oraon,Delhi Redz,Flyhalf,1,1,22
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Grace Okulu,Mumbai Dreamers,Back,1,1,23
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Arti Kumari,Mumbai Dreamers,Wing,1,1,24
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Camilla Carvalho,Delhi Redz,Forward,1,1,25
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Isadora Lopes,Delhi Redz,Back,1,1,26
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Vaishnavi Patil,Delhi Redz,Prop,1,1,27
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Ujjwala Ghuge,Kolkata Banga Tigers,Forward,1,1,28
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Abril Ruiz,Mumbai Dreamers,Back,1,1,29
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Adia Pye,Chennai Bulls,Back,1,1,30
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Priyanka R,Chennai Bulls,Fly Half,1,1,31
+Women,player,Most Tackles,3,Minimum 1 Tackle in a match,Patience Mokane,Mumbai Dreamers,Back,1,1,32
+Women,player,Most Tries,1,Minimum 1 try in a match,Nia Imani Toliver,Kolkata Banga Tigers,Back,1,3,1
+Women,player,Most Tries,1,Minimum 1 try in a match,Sofia Gonzalez,Kolkata Banga Tigers,Back,1,2,2
+Women,player,Most Tries,1,Minimum 1 try in a match,Savannah Bauder,Chennai Bulls,Fly Half,1,2,3
+Women,player,Most Tries,1,Minimum 1 try in a match,Lavena Cavuru,Delhi Redz,Back,1,1,4
+Women,player,Most Tries,1,Minimum 1 try in a match,Amandeep Kaur,Chennai Bulls,Prop,1,1,5
+Women,player,Most Tries,1,Minimum 1 try in a match,Zintle Mpupha,Delhi Redz,Back,1,1,6
+Women,player,Most Tries,1,Minimum 1 try in a match,Rima Oraon,Delhi Redz,Flyhalf,1,1,7
+Women,player,Most Tries,1,Minimum 1 try in a match,Grace Okulu,Mumbai Dreamers,Back,1,1,8
+Women,player,Most Tries,1,Minimum 1 try in a match,Isadora Lopes,Delhi Redz,Back,1,1,9
+Women,player,Most Tries,1,Minimum 1 try in a match,Yasmim Soares,Mumbai Dreamers,Back,1,1,10
+Women,player,Most Tries,1,Minimum 1 try in a match,Bhumika Shukla,Mumbai Dreamers,Centre,1,1,11
+Women,player,Most Tries,1,Minimum 1 try in a match,Adia Pye,Chennai Bulls,Back,1,1,12
+Women,team,Most Assists,9,Minimum 1 Assist in a match,,Kolkata Banga Tigers,,1,2,1
+Women,team,Most Assists,9,Minimum 1 Assist in a match,,Delhi Redz,,1,2,2
+Women,team,Most Assists,9,Minimum 1 Assist in a match,,Chennai Bulls,,1,1,3
+Women,team,Most Assists,9,Minimum 1 Assist in a match,,Mumbai Dreamers,,1,1,4
+Women,team,Most Conversions,2,Minimum 1 Conversion in a match,,Kolkata Banga Tigers,,1,3,1
+Women,team,Most Conversions,2,Minimum 1 Conversion in a match,,Chennai Bulls,,1,2,2
+Women,team,Most Conversions,2,Minimum 1 Conversion in a match,,Delhi Redz,,1,2,3
+Women,team,Most Conversions,2,Minimum 1 Conversion in a match,,Mumbai Dreamers,,1,2,4
+Women,team,Most Offloads,7,Minimum 1 Offload in a match,,Delhi Redz,,1,10,1
+Women,team,Most Offloads,7,Minimum 1 Offload in a match,,Chennai Bulls,,1,9,2
+Women,team,Most Offloads,7,Minimum 1 Offload in a match,,Kolkata Banga Tigers,,1,4,3
+Women,team,Most Offloads,7,Minimum 1 Offload in a match,,Mumbai Dreamers,,1,4,4
+Women,team,Most Points,4,Minimum 1 Point in a match,,Kolkata Banga Tigers,,1,31,1
+Women,team,Most Points,4,Minimum 1 Point in a match,,Chennai Bulls,,1,24,2
+Women,team,Most Points,4,Minimum 1 Point in a match,,Delhi Redz,,1,24,3
+Women,team,Most Points,4,Minimum 1 Point in a match,,Mumbai Dreamers,,1,19,4
+Women,team,Most Tackles,3,Minimum 1 Tackle in a match,,Chennai Bulls,,1,27,1
+Women,team,Most Tackles,3,Minimum 1 Tackle in a match,,Delhi Redz,,1,15,2
+Women,team,Most Tackles,3,Minimum 1 Tackle in a match,,Mumbai Dreamers,,1,15,3
+Women,team,Most Tackles,3,Minimum 1 Tackle in a match,,Kolkata Banga Tigers,,1,12,4
+Women,team,Most Tries,1,Minimum 1 try in a match,,Kolkata Banga Tigers,,1,5,1
+Women,team,Most Tries,1,Minimum 1 try in a match,,Chennai Bulls,,1,4,2
+Women,team,Most Tries,1,Minimum 1 try in a match,,Delhi Redz,,1,4,3
+Women,team,Most Tries,1,Minimum 1 try in a match,,Mumbai Dreamers,,1,3,4
