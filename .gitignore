@@ -2,6 +2,7 @@
 *service-account*.json
 *credentials*.json
 *-key.json
+rugby-premier-league-*.json
 .env
 
 # python
